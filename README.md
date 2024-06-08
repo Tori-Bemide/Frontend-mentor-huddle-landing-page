@@ -1,7 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -28,7 +27,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 - Solution URL: [HTML Solution](https://github.com/Tori-Bemide/Frontend-mentor-huddle-landing-page-with/blob/main/index.html)
 - Solution URL: [CSS Solution](https://github.com/Tori-Bemide/Frontend-mentor-huddle-landing-page-with/blob/main/css/styles.css)
-- Live Site URL: [Live Site](https://tori-bemide.github.io/Frontend-mentor-profile-card-component-solution/)
+- Live Site URL: [Live Site](https://tori-bemide.github.io/Frontend-mentor-huddle-landing-page/)
 
 ## My process
 
