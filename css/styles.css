@@ -110,7 +110,7 @@ Global Variables
   border-color: var(--soft-magenta);
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 992px) {
   .banner {
     background-image: url("../images/bg-desktop.svg");
     padding: 2.5rem 0;
